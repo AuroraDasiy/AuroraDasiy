@@ -1,4 +1,4 @@
-![Image of your project]([111.jpg)])
+![Image of your project](111.jpg)
 - 👋 Hi, I’m @AuroraDasiy
 - 👋 Hi, I’m @AuroraDasiy
 - 👀 I’m interested in ...
