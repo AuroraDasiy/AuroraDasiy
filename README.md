@@ -1,4 +1,4 @@
-![Image of your project]([[/AuroraDasiy/main/111.jpg](https://github.com/AuroraDasiy/AuroraDasiy/blob/main/111.jpg)])
+![Image of your project]([(https://github.com/AuroraDasiy/AuroraDasiy/blob/main/111.jpg)])
 - 👋 Hi, I’m @AuroraDasiy
 - 👋 Hi, I’m @AuroraDasiy
 - 👀 I’m interested in ...
