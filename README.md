@@ -1,4 +1,4 @@
-<span style="font-size: 36px">I come from the Goded States of Ayuanrica </span>
+<span style="font-size: 36">I come from the Goded States of Ayuanrica </span>
 ![Image of your project](111.jpg)
 - 👋 Hi, I’m @AuroraDasiy
 - 👀 I’m interested in Math and CS
