@@ -1,6 +1,6 @@
 <span style="font-size: 36">I come from the Goded States of Ayuanrica </span>
 ![Image of your project](111.jpg)
-- 這是我的discord社區歡迎加入或者聯絡我  [DC社區](https://discord.gg/QBEm5Cc7)
+- 這是我的一些社區歡迎加入或者聯絡我  [DC社區](https://discord.gg/QBEm5Cc7) [Steam社區](https://steamcommunity.com/chat/invite/EEBIr9Hu)
 - 👋 Hi, I’m Mr.Joker
 - 📫 How to reach me  Auroradasiy@gmail.com / yyilin969@gmail.com
 chat with me at gmail
